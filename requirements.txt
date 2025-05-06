@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+numpy
+pillow
+fpdf
+
+pytz
+qrcode
+streamlit-lottie
